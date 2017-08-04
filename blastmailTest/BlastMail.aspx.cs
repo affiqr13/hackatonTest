@@ -22,7 +22,7 @@ public partial class BlastMail : System.Web.UI.Page
 {
     protected void Page_Load(object sender, EventArgs e)
     {
-    	    string[] arr = new string[2];
+    	    string[] arr = new string[3];
                 arr[0]="affiq.rashid@tm.com.my";
                 arr[1]="zaiman.azman@tm.com.my";
                 arr[2]="azrin.othman@tm.com.my";           
